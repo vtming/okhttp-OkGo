@@ -38,6 +38,7 @@ public class TestActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test);
         setTitle("测试页面");
+        //
     }
 
     @OnClick(R.id.btn1)
